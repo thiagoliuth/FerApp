@@ -5,7 +5,7 @@
   "start_url": "./FerApp.html",
   "display": "standalone",
   "background_color": "#FFFFFF",
-  "theme_color": "#14532D",
+  "theme_color": "#C2410C",
   "orientation": "portrait-primary",
   "lang": "pt-BR",
   "icons": [
